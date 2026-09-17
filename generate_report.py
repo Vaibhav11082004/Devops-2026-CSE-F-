@@ -18,16 +18,6 @@ from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 COLLEGE_NAME = "Swami Keshvanand Institute of Technology, Management & Gramothan, Jaipur"
 DEPARTMENT_NAME = "Department of Computer Science & Engineering"
 # -------------------------------------------------------------
-
-# -------------------------------------------------------------
-# Map alternate git identities to one canonical student name
-# (e.g. same person committing under a different username/email)
-# -------------------------------------------------------------
-AUTHOR_ALIASES = {
-    "nisazinat8-cell": "Zinat Nisa",
-}
-# -------------------------------------------------------------
-
 def get_repo_info():
     """Extracts the repository name and current branch."""
     repo_name = "Project-Repository"
