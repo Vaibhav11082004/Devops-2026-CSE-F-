@@ -23,7 +23,7 @@ DEPARTMENT_NAME = "Department of Computer Science & Engineering"
 # (e.g. same person committing under a different username/email)
 # -------------------------------------------------------------
 AUTHOR_ALIASES = {
-    "Vaibhav11082004": "Vaibhav11082004",
+    "Vaibhav11082004": "vaibhav kumar",
 }
 # -------------------------------------------------------------
 
